@@ -1,0 +1,42 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos temporales de Office
+~$*
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+dist/
+
+# Java
+*.class
+target/
+build/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Variables de entorno y contraseñas (¡nunca subir!)
+.env
+.env.*
+*.key
+secrets.*
